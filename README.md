@@ -10,6 +10,4 @@
 * [Express Js](https://expressjs.com/)
 * [SpaceX api](https://docs.spacexdata.com/?version=latest)
 
-
-![GraphQl logo]
-(https://images.app.goo.gl/Z1XkT4SpWsypJ3vQ7)
+https://images.app.goo.gl/Z1XkT4SpWsypJ3vQ7
