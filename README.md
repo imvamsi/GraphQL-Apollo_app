@@ -11,4 +11,4 @@
 * [SpaceX api](https://docs.spacexdata.com/?version=latest)
 
 
-<img src="https://miro.medium.com/max/1120/1*rfcKecKMtiD0WaALeTCkag.png" width="200" height="200" />
+<img src="https://miro.medium.com/max/1120/1*rfcKecKMtiD0WaALeTCkag.png" width="300" height="300" />
