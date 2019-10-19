@@ -11,4 +11,4 @@
 * [SpaceX api](https://docs.spacexdata.com/?version=latest)
 
 
-<img src="https://cdn-images-1.medium.com/max/800/1*z-LROfr9BoiuMhlra-_OZQ.png" width="750" height="300" />
+<img src="https://cdn-images-1.medium.com/max/800/1*z-LROfr9BoiuMhlra-_OZQ.png" width="750" height="200" />
