@@ -1,3 +1,6 @@
+
+<img src="https://img.shields.io/badge/build-passing-brightgreen">
+
 # GraphQL_Apollo_app
 
 [Live Project-Heroku](https://spacexapp-apollo-graphql.herokuapp.com/)
