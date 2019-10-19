@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/build-passing-brightgreen">
+<img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/tests-pending-red">
 
 # GraphQL_Apollo_app
 
